@@ -1,4 +1,4 @@
 # hello-world
-My first project
+My First project
 
 Hello java
